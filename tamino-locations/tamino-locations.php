@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Tamino Locations
+ * Plugin Name: Tamino Locations.
  * Description: Backend management for Locations (Orte) - independent from WooCommerce
  */
 
